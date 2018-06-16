@@ -1,0 +1,8 @@
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\bin\Debug\netstandard2.0\MoeLib.Diagnostics.Core.deps.json
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\bin\Debug\netstandard2.0\MoeLib.Diagnostics.Core.dll
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\bin\Debug\netstandard2.0\MoeLib.Diagnostics.Core.pdb
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\obj\Debug\netstandard2.0\MoeLib.Diagnostics.Core.csproj.CoreCompileInputs.cache
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\obj\Debug\netstandard2.0\MoeLib.Diagnostics.Core.AssemblyInfoInputs.cache
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\obj\Debug\netstandard2.0\MoeLib.Diagnostics.Core.AssemblyInfo.cs
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\obj\Debug\netstandard2.0\MoeLib.Diagnostics.Core.dll
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Diagnostics.Core\obj\Debug\netstandard2.0\MoeLib.Diagnostics.Core.pdb

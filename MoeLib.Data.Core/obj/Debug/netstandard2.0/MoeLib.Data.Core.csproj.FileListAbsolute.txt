@@ -1,0 +1,9 @@
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.AssemblyInfoInputs.cache
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.AssemblyInfo.cs
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\bin\Debug\netstandard2.0\MoeLib.Data.Core.deps.json
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\bin\Debug\netstandard2.0\MoeLib.Data.Core.dll
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.csprojResolveAssemblyReference.cache
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\bin\Debug\netstandard2.0\MoeLib.Data.Core.pdb
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.dll
+C:\Users\KKK\Documents\Code\MoeLibCore\MoeLib.Data.Core\obj\Debug\netstandard2.0\MoeLib.Data.Core.pdb
