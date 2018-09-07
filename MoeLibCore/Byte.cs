@@ -61,6 +61,14 @@ namespace MoeLibCore
             return ByteUtility.GetBytesOfUnicode(value);
         }
 
+        /// <summary>   A string extension method that gets bytes of hexadecimal string. </summary>
+        /// <param name="value">    The value to act on. </param>
+        /// <returns>   An array of byte. </returns>
+        public static byte[] GetBytesOfHexString(this string value)
+        {
+            return ByteUtility.GetBytesOfHexString(value);
+        }
+
         /// <summary>
         ///     Gets the value of Utf8 string.
         /// </summary>
@@ -158,6 +166,16 @@ namespace MoeLibCore
         public static byte[] GetBytesOfUnicode(string value)
         {
             return Encoding.Unicode.GetBytes(value);
+        }
+
+        public static byte[] GetBytesOfHexString(string value)
+        {
+            var resultantArray = new byte[value.Length / 2];
+            for (var i = 0; i < resultantArray.Length; i++)
+            {
+                resultantArray[i] = System.Convert.ToByte(value.Substring(i * 2, 2), 16);
+            }
+            return resultantArray;
         }
 
         /// <summary>

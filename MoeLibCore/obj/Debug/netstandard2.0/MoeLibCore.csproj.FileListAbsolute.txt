@@ -1,8 +1,0 @@
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\bin\Debug\netstandard2.0\MoeLibCore.deps.json
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\bin\Debug\netstandard2.0\MoeLibCore.dll
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\bin\Debug\netstandard2.0\MoeLibCore.pdb
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\obj\Debug\netstandard2.0\MoeLibCore.csproj.CoreCompileInputs.cache
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\obj\Debug\netstandard2.0\MoeLibCore.AssemblyInfoInputs.cache
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\obj\Debug\netstandard2.0\MoeLibCore.AssemblyInfo.cs
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\obj\Debug\netstandard2.0\MoeLibCore.dll
-C:\Users\KKK\Documents\Code\MoeLibCore\MoeLibCore\obj\Debug\netstandard2.0\MoeLibCore.pdb
